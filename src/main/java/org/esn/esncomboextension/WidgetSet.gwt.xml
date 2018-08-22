@@ -1,0 +1,12 @@
+<module>
+
+	<!-- WS Compiler: manually edited -->
+
+	<!-- Inherit DefaultWidgetSet -->
+	<inherits name="com.vaadin.DefaultWidgetSet"/>
+        <inherits name="org.vaadin.hene.popupbutton.widgetset.PopupbuttonWidgetset"/>
+        <inherits name="org.vaadin.extension.gridscroll.WidgetSet"/>
+        <inherits name="org.vaadin.addons.comboboxmultiselect.WidgetSet"/>
+	<source path="client/" />
+	
+</module>
